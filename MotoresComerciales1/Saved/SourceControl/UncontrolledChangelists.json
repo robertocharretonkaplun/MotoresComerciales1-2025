@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
-				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ChainTest.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/BP_Platform.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Input/Actions/AI_Sprint.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/BPI_Inflamable.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/NewNiagaraSystem.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/82/WLZ4D40AP4EXLCSAEAJ19R.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8Y/MUEQ1AF837OYI47OYG9497.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/BP_Platform2.uasset"
 			]
 		}
 	]
